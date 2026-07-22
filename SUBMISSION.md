@@ -20,9 +20,7 @@
 
 Walkthrough video URL will be added here after recording:
 
-```text
-WALKTHROUGH_URL_PENDING
-```
+https://drive.google.com/file/d/1lgTXaWlRagzWXV85WtmrMoJ2d1ZFMQGM/view?usp=sharing
 
 ## Project Summary
 
@@ -417,6 +415,6 @@ With a larger development window, additional improvements would include:
 - [x] README completed
 - [x] Architecture documentation completed
 - [x] AI workflow documented
-- [ ] Walkthrough video recorded
-- [ ] Walkthrough URL added
-- [ ] Final Google Drive submission folder prepared
+- [x] Walkthrough video recorded
+- [x] Walkthrough URL added
+- [x] Final Google Drive submission folder prepared
